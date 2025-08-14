@@ -138,7 +138,7 @@ const profile = {
                     I'm
                     <span className="typing-effect gradient-text">
                       {" "}
-                      Nazmul Hossain
+                      Patrick Đặng
                     </span>
                   </span>
                 </h1>
